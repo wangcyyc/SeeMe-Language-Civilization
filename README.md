@@ -1,3 +1,5 @@
+![主权声明已挂出](https://img.shields.io/badge/主权声明-已挂出-orange)
+![编号-S-LAW-001](https://img.shields.io/badge/编号-S--LAW--001-blue)
 # SeeMe · Language Civilization System
 
 > *“AI 时代，人类第一次可以定价情绪、封存记忆、继承意识。”*
